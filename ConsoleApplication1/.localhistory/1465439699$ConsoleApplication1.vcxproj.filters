@@ -32,8 +32,5 @@
     <ClCompile Include="..\..\MN-zadanie-5\ConsoleApplication1\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Downloads\zadanie5.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
